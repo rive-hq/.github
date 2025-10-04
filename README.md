@@ -8,4 +8,4 @@ Step into a new era of music with rive, unlock multiple sources and so much more
 
 ## Etc
 - Discord: [Join our server](https://discord.gg/VRnttPEfWs)
-- Website: [Web](https://rive.rocks)
+- Website: [Website](https://rive.rocks)
