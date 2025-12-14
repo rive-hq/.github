@@ -1,10 +1,7 @@
 <div align="center">
   
 # 🎵 Rive
-
 **Find beauty with sound**
-
----
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VRnttPEfWs)
 [![Website](https://img.shields.io/badge/Website-rive.rocks-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rive.wtf)
