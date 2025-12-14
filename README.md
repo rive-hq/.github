@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://www.rive.wtf/images/rive.png" alt="Rive Logo" width="200" height="200" />
+<img src="https://www.rive.wtf/images/rive.png" alt="Rive Logo" width="200" height="200" style="border-radius: 50%;" />
 
 # 🎵 Rive
 
